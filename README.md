@@ -3,7 +3,7 @@ Aplicativo com Navegação entre telas e com parâmetros
 
 ## Tela Inicial
 
-<img src="https://github.com/user-attachments/assets/5d06a303-4424-4224-8d04-d725a770bcff" alt="Tela de Login" width="300"/>
+<img src="https://github.com/user-attachments/assets/142a25a8-8fb7-46ee-8059-e19fa75e919c" alt="Tela de Login" width="300"/>
 
 
 
@@ -16,3 +16,4 @@ Aplicativo com Navegação entre telas e com parâmetros
 
 
 <img src="https://github.com/user-attachments/assets/0b517576-b52a-4478-9286-19db1b1a1cd0" alt="Tela de Login" width="300"/>
+
