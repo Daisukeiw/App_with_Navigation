@@ -7,7 +7,7 @@ Aplicativo com Navegação entre telas e com parâmetros
 
 
 
-## Usuário 1
+## Usuário Padrão
 
 <img src="https://github.com/user-attachments/assets/0a08d8ec-f231-4ce9-a360-b5c032dcfdfb" alt="Tela de Login" width="300"/>
 
